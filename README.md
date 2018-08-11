@@ -1,6 +1,12 @@
 # Arma_Crasher
 Arma Array Memory Waster, based on Spoody's SQF protection.
 
+
+### Usage <h3/>
+Load PBO with whatever method you have and hide it. Load into a server and into a unit. Hit the tilda key (key above tab to the left of the number 1 key). Hit 'ARM', then 'FIRE'.
+
+
+
  ### Delivery: <h3/> 
  - Dialog opened by player -> <br/>
  - Dialog option selected by player -> <br/>
