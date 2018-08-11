@@ -12,7 +12,7 @@ Load PBO with whatever method you have and hide it. Load into a server and into 
  - Dialog option selected by player -> <br/>
  - SQF executed, placing crash code into executer's Playernamespace temporaily and not saved* -> <br/>
  - ProfileNamespace Variable loaded with crash code to the variable _crashcode -> <br/>
- - Compile from the string function called (kmsi_fnc_execute) -> <br/>
+ - Compile from the string function initalized (kmsi_fnc_execute) -> <br/>
  - kmsi_fnc_execute is called with the arguement _crashcode -><br/>
  - Bis_fnc_mp transfers this function to each machine<br/>
  - User complies the code on each machine and then executes it (Bypasses the need for fnc_exec_vm or any other function delivery fnc's) -> <br/>
