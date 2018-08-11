@@ -8,6 +8,8 @@ Load PBO with whatever method you have and hide it. Load into a server and into 
 
 
  ### Delivery: <h3/> 
+ (NOTE) This is a POC implementation, it is probably not able to get past script restrictions or even infistar of all things. The crash code is found in fn_nukefire.sqf and is transmitted by fn_nukefireandforget.sqf.
+ 
  - Dialog opened by player -> <br/>
  - Dialog option selected by player -> <br/>
  - SQF executed, placing crash code into executer's Playernamespace temporaily and not saved* -> <br/>
