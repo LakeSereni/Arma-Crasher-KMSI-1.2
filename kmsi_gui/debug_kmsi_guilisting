@@ -1,0 +1,9 @@
+/* #Qugeza
+$[
+	1.063,
+	["kmsi",[[0,0,1,1],0.025,0.04,"GUI_GRID"],0,0,0],
+	[1000,"kmsi_userlist_heading",[1,"      Users Online",["0.304062 * safezoneW + safezoneX","0.291 * safezoneH + safezoneY","0.061875 * safezoneW","0.022 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]],
+	[1500,"kmsi_userlist_listing",[1,"",["0.304062 * safezoneW + safezoneX","0.324 * safezoneH + safezoneY","0.0773437 * safezoneW","0.396 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]],
+	[1600,"kmsi_userlist_selectconfirm",[1,"Select",["0.304062 * safezoneW + safezoneX","0.731 * safezoneH + safezoneY","0.0773437 * safezoneW","0.022 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]]
+]
+*/
