@@ -1,7 +1,7 @@
 # Arma_Crasher
 Arma Array Memory Waster, based on Spoody's SQF protection.
 
- # Delivery: <h3/> <br/>
+ # Delivery: <h3/> 
  ProfileNamespace Variable -> <br/>
  Compile -> <br/>
  Broadcast compile to each user -><br/>
