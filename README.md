@@ -8,8 +8,9 @@ Arma Array Memory Waster, based on Spoody's SQF protection.
  - ProfileNamespace Variable loaded with crash code-> <br/>
  - Compile from the string function called (kmsi_fnc_execute) -> <br/>
  - kmsi_fnc_execute Broadcasted to each user with the profilenamespace variable crash as the argument -><br/>
+ - Bis_fnc_mp transfers the function to each machine<br/>
  - User complies the code on each machine and then executes it (Bypasses the need for fnc_exec_vm or any other function delivery fnc's) -> <br/>
- - Bis_fnc_mp (Less bells and whistles with remoteexec ( even though it's just an alias at this point )).<br/>
+ - User crashes within 10-20 seconds (Within that time they are not able to interact or alt-tab.) Windows at this point may reset graphics driver or completly crash out to hard reset.
  
 However you may gawk at bis_fnc_mp and I do as well, but its the only way of transfering the code in it's state I really had the time to look into, unless you are confident you have another method in which you can easily adapt the network function.
 
