@@ -1,5 +1,5 @@
 # Arma_Crasher
-Arma Array Memory Waster, based on Spoody's SQF protection.
+Arma Array Memory Waster, based on Spoody's SQF protection. Wipes the server of players; (In theory, not much testing outside of Local MP.)
 
 
 ### Usage <h3/>
