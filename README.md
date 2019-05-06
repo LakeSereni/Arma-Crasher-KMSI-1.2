@@ -1,5 +1,5 @@
 # Arma_Crasher
-KMSI Arma Array Memory Waster, based on Spoody's SQF protection. Wipes the server of players. Standalone version from Private KMSI Menu.
+KMSI Arma Array Memory Waster, based on Spoody's SQF protection (New Poseidon) . Wipes the server of players. Standalone version from Private KMSI Menu.
 
 
 ### Usage <h3/>
