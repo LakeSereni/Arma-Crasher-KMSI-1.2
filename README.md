@@ -5,7 +5,8 @@ KMSI Arma Array Memory Waster, based on Spoody's SQF protection. Wipes the serve
 ### Usage <h3/>
 Load PBO with whatever method you have and hide it. Load into a server and into a unit. Hit the tilda key (key above tab to the left of the number 1 key). Hit 'ARM', then 'FIRE'.
 
-
+### Method <h3/>
+Payload placed in unshedueled enviroment, no while loops = no timeout = no end. Code runs for as long as the player's client stays responding, not very long really.
 
  ### Delivery: <h3/> 
  (NOTE) This is a POC implementation, it is probably not able to get past script restrictions or even infistar of all things. The crash code is found in fn_nukefire.sqf and is transmitted by fn_nukefireandforget.sqf.
