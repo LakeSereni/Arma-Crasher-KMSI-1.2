@@ -4,7 +4,6 @@ KMSI Arma Array Memory Waster, based on Spoody's SQF protection (New Poseidon) .
 ### Disclaimer <h3/>
 SO yeah big time you should not try this on a server, you may say "hey it says crasher in the name", but yeah you still have to give things their respective names, you can't dance around them. But still, I'm saying you shouldn't try this on actual servers because thats illegal (It's a denial of service in all sense of the definition), and it is up to you to weigh the risk of actually getting sued. This is for EDUCATIONAL PURPOSES ONLY IN THE EXPLORATION OF THE ARMA ENVIRONEMNT. THIS IS AS PROVIDED WITH NO WARRENTY WHAT-SO-EVER! YOU AGREE THAT YOU UNDERSTAND THAT THE CODE CONTAINED IN THIS REPOSITORY IS ONLY TO BE USED FOR EDUCATIONAL PURPOSES AND YOU SHOULDN'T TOTALLY DO ILLEGAL STUFF WITH IT.
 
-(Gluck trying to attribute blame to me for this, you'd be suprised how little responability I have for providing this code for eductional purpose)
 
 ### Usage <h3/>
 Load PBO with whatever method you have and hide it. Load into a server and into a unit. Hit the tilda key (key above tab to the left of the number 1 key). Hit 'ARM', then 'FIRE'.
