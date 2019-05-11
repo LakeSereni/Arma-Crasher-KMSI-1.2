@@ -6,7 +6,7 @@ SO yeah big time you should not try this on a server, you may say "hey it says c
 
 
 ### Usage <h3/>
-Load PBO with whatever method you have and hide it. Load into a server and into a unit. Hit the tilda key (key above tab to the left of the number 1 key). Hit 'ARM', then 'FIRE'.
+Load PBO with whatever method you have and hide it. Load into a server and into a unit. Hit the tilda key (key above tab to the left of the number 1 key). Hit 'ARM', then 'FIRE'. This Arm process makes sure you don't nuke yourself by not starting the script unless your player has a safety variable set to not nil.
 
 ### Method <h3/>
 Payload placed in unshedueled enviroment, no while loops = no timeout = no end. Code runs for as long as the player's client stays responding, not very long really.
